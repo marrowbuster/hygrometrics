@@ -1,0 +1,27 @@
+{
+  "name": "hygrometrics-image",
+  "version": "0.0.1a",
+  "description": "image for hygrometrics project",
+  "author": "marrowbuster <info@marrowbuster.com>",
+  "license": "MIT",
+  "main": "app.ts",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express",
+    "esp32"
+  ],
+  "dependencies": {
+    "express": "^5.1.0",
+    "dotenv": "^17.2.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.1",
+    "@types/node": "^24.0.13",
+    "eslint": "^9.31.0",
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
